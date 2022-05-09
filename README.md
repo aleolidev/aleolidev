@@ -19,7 +19,7 @@ I am Alejandro Olivares. I am ambitious, and I always have the focus on expandin
 - 🌳 <a href="https://github.com/inmortalkaktus/tilemonstudio">Tilemon Studio</a> - Pixel art color reduction tool using artificial intelligence
 - ♾️ <a href="https://github.com/inmortalkaktus/SmartMaze">Smart Maze</a> - A procedurally generated puzzle video game developed in Unity
 
-## Biografy
+## Biography
 
 - 🖥️ I am currently studying a **Computer Engineering** at the _Universidad de Alicante_
 - ⚙️ Right now I'm focusing on learning `Javascript`, `Node.js`, `React`, `Next.js`, `Gatsby`, `Puppeteer`, `SEO`
